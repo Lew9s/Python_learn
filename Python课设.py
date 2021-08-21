@@ -165,17 +165,4 @@ def main():
             #退出
             print("已退出学生信息系统")
             break
-        
-
-
-
-
-
-
-
-
-
-
-
-
-main()
+ main()
